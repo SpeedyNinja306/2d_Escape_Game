@@ -1,4 +1,4 @@
-# Escape from Epstein
+# 2D Escape Game
 
 A 2D top-down stealth game built in JavaFX, inspired by Pokemon-style exploration.
 
